@@ -9,5 +9,5 @@ wheels/
 # Virtual environments
 .venv
 
-# Default output
-output.tsv
+# output files
+*.tsv
